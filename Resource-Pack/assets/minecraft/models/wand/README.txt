@@ -11,3 +11,7 @@ To get the override damage value for the model, simply
 ---
 _wand_display is a template, for what should be used for the display tags at the bottom of the model files
 - Brecert
+
+
+-- Non of this stuff matters except 1_wand_default1-model.
+-- You can delete the rest.
